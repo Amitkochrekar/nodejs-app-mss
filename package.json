@@ -5,7 +5,7 @@
   "main": "app.js",
   
   "publishConfig": {
-    "registry": "http://65.2.180.209:9980/amitkochrekar/repository/nodejs-amit/"
+    "registry": "http://65.2.180.209:9980/amitkochrekar/repository/nodejs-amit"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
